@@ -1,0 +1,44 @@
+
+
+
+.input__div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+input {
+    height: 2rem;
+    background-color: grey;
+    border: none;
+    border-radius: 5px;
+    margin-right: 1rem;
+    width: 250px;
+}
+
+button {
+    height: 2.2rem;
+    background-color: teal;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-radius: 5px;
+}
+
+
+.allTodo__div > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.allTodo__div > div > h3 {
+    margin-right: 1rem;
+}
+
+.allTodo__div > div > button {
+    margin-right: 1rem;
+}
